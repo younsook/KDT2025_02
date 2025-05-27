@@ -9,7 +9,7 @@
 + pnu40271	배창민 :
 + pnu40272	윤소희 :
 + pnu40273	이다은 :
-+ pnu40274	이영민 :
++ pnu40274	이영민 : https://github.com/MINISCV
 + pnu40275	이윤숙 :
 + pnu40280	정영록 :
 + pnu40276	조석기 :
