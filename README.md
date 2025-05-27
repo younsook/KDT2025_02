@@ -1,5 +1,5 @@
 # KDT2025_02
-+ pnu40261	김준영 : 
++ pnu40261	김준영 : https://github.com/Young6575
 + pnu40263	김진욱 :
 + pnu40267	김현호 :
 + pnu40268	남현욱 :https://github.com/hyeonug?tab=repositories
