@@ -15,4 +15,4 @@
 + pnu40276	조석기 :
 + pnu40281	조성곤 :
 + pnu40277	최미정 :
-+ pnu40278	황준오 : 
++ pnu40278	황준오 : https://github.com/junohfox
