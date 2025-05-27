@@ -5,7 +5,7 @@
 + pnu40268	남현욱 : https://github.com/hyeonug?tab=repositories
 + pnu40269	박종현 :
 + pnu40270	박지성 : https://github.com/pzsluna26
-+ pnu40279	배기영 : 
++ pnu40279	배기영 : https://github.com/bae-giyoung
 + pnu40272	윤소희 : https://github.com/heeaayoon 
 + pnu40274	이영민 : https://github.com/MINISCV
 + pnu40275	이윤숙 : https://github.com/younsook 
