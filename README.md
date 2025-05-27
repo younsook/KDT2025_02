@@ -13,6 +13,6 @@
 + pnu40275	이윤숙 :
 + pnu40280	정영록 :
 + pnu40276	조석기 : https://github.com/chojosk
-+ pnu40281	조성곤 :
++ pnu40281	조성곤 : https://github.com/jsg1008
 + pnu40277	최미정 : https://github.com/emmalaechelt
 + pnu40278	황준오 : https://github.com/junohfox
