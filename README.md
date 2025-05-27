@@ -10,7 +10,7 @@
 + pnu40272	윤소희 : https://github.com/heeaayoon
 + pnu40273	이다은 :
 + pnu40274	이영민 : https://github.com/MINISCV
-+ pnu40275	이윤숙 :
++ pnu40275	이윤숙 :ttps://github.com/younsook
 + pnu40280	정영록 :
 + pnu40276	조석기 : https://github.com/chojosk
 + pnu40281	조성곤 : https://github.com/jsg1008
