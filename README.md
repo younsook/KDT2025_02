@@ -7,7 +7,7 @@
 + pnu40270	박지성 :
 + pnu40279	배기영 :
 + pnu40271	배창민 :
-+ pnu40272	윤소희 : github.com/heeaayoon
++ pnu40272	윤소희 : https://github.com/heeaayoon
 + pnu40273	이다은 :
 + pnu40274	이영민 : https://github.com/MINISCV
 + pnu40275	이윤숙 :
