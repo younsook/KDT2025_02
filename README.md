@@ -4,7 +4,7 @@
 + pnu40267	김현호 :
 + pnu40268	남현욱 :https://github.com/hyeonug?tab=repositories
 + pnu40269	박종현 :
-+ pnu40270	박지성 :
++ pnu40270	박지성 : https://github.com/pzsluna26
 + pnu40279	배기영 :
 + pnu40271	배창민 :
 + pnu40272	윤소희 : https://github.com/heeaayoon
